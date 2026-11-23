@@ -1,0 +1,33 @@
+{
+  "RegionInfo": {
+    "ClientDataMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"eb73d59cf55b7dede105c68c6f241d5d\", \"hash\": \"1d386706472e8d30\", \"fileSize\": 6656}\n{\"remoteName\": \"data_versions_medium\", \"md5\": \"81ddb54d1c7674ab74ac68d252bead92\", \"hash\": \"e837418f49ab3ab1\", \"fileSize\": 6656}",
+    "ResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/4.7_live",
+    "NextResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/4.7_live",
+    "ResourceUrlBak": "4.7_live",
+    "DataUrl": "https://autopatchcn.yuanshen.com/client_design_data/4.7_live",
+    "NextResVersionConfig": {
+      "Md5": "0",
+      "ReleaseTotalSize": "0",
+      "Branch": "4.7_live"
+    },
+    "ResVersionConfig": {
+      "Version": 24292157,
+      "Md5": "{\"remoteName\": \"res_versions_external\", \"md5\": \"c9dd326696fd9af583e674151b6185c7\", \"hash\": \"53074778c6c62d3b\", \"fileSize\": 135339}\n{\"remoteName\": \"res_versions_medium\", \"md5\": \"1087349224e0ffed10bb801cece3d3ca\", \"hash\": \"ba1ec54c1e7fc803\", \"fileSize\": 6582}\n{\"remoteName\": \"res_versions_streaming\", \"md5\": \"f5622a7e218345bc98e3c20ea55f3dca\", \"hash\": \"4bb69bce29e408c8\", \"fileSize\": 1304}\n{\"remoteName\": \"base_revision\", \"md5\": \"a27d2b5a20ccfef2ea8075e904c1ab8f\", \"hash\": \"2d01c89b7b64c012\", \"fileSize\": 19}",
+      "ReleaseTotalSize": "0",
+      "VersionSuffix": "35b707301e",
+      "Branch": "4.7_live"
+    },
+    "GameBiz": "hk4e_cn",
+    "AreaType": "CN",
+    "ClientDataVersion": 24803766,
+    "ClientSilenceDataVersion": 24332145,
+    "ClientVersionSuffix": "5e5f470e3e",
+    "ClientSilenceVersionSuffix": "492068e4a6",
+    "UseGateserverDomainName": false,
+    "GateserverIp": "47.116.110.112",
+    "GateserverPort": 22101,
+    "PrivacyPolicyUrl": "https://user.mihoyo.com/#/about/privacyInGame?app_id=4&lang=zh-cn&biz=hk4e_cn",
+    "CdkeyUrl": "https://public-operation-hk4e.mihoyo.com/common/apicdkey/api/exchangeCdkey?sign_type=2&auth_appid=apicdkey&authkey_ver=1"
+  },
+  "Retcode": 0
+}

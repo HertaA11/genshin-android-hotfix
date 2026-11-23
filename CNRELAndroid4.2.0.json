@@ -1,0 +1,33 @@
+{
+  "RegionInfo": {
+    "ClientDataMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"d3d0a2d682763f2780b0601ffd5cc122\", \"hash\": \"12d935ef4b5f74de\", \"fileSize\": 6522}",
+    "ResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/4.2_live",
+    "NextResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/4.2_live",
+    "ResourceUrlBak": "4.2_live",
+    "DataUrl": "https://autopatchcn.yuanshen.com/client_design_data/4.2_live",
+    "NextResVersionConfig": {
+      "Md5": "0",
+      "ReleaseTotalSize": "0",
+      "Branch": "4.2_live"
+    },
+    "ResVersionConfig": {
+      "Version": 19151143,
+      "Md5": "{\"remoteName\": \"res_versions_external\", \"md5\": \"3fc79d0fded1f2738169e133acd482b5\", \"hash\": \"71cb8ca1d2b1150a\", \"fileSize\": 724684}\n{\"remoteName\": \"res_versions_medium\", \"md5\": \"20486e0565560b5001895ad66331ed17\", \"hash\": \"698ee40f8fa007af\", \"fileSize\": 83510}\n{\"remoteName\": \"res_versions_streaming\", \"md5\": \"59f71e4e66c1e639ca1cbbc6558740b2\", \"hash\": \"7677395ef83a2a73\", \"fileSize\": 2658}\n{\"remoteName\": \"base_revision\", \"md5\": \"f611ecfbd231defe9395b459df75a0fe\", \"hash\": \"fa183d95f41df277\", \"fileSize\": 19}\n{\"remoteName\": \"audio_diff_versions_19151143-18121248\", \"md5\": \"ba07dd0c7d6ecd1d26513a92785eece8\", \"hash\": \"fb8d0cad11ef0694\", \"fileSize\": 25324}",
+      "ReleaseTotalSize": "0",
+      "VersionSuffix": "52a8e1d974",
+      "Branch": "4.2_live"
+    },
+    "GameBiz": "hk4e_cn",
+    "AreaType": "CN",
+    "ClientDataVersion": 19111669,
+    "ClientSilenceDataVersion": 19202534,
+    "ClientVersionSuffix": "2341d1acff",
+    "ClientSilenceVersionSuffix": "9ee695c4cb",
+    "UseGateserverDomainName": false,
+    "GateserverIp": "47.101.203.7",
+    "GateserverPort": 22101,
+    "PrivacyPolicyUrl": "https://user.mihoyo.com/#/about/privacyInGame?app_id=4&lang=zh-cn&biz=hk4e_cn",
+    "CdkeyUrl": "https://public-operation-hk4e.mihoyo.com/common/apicdkey/api/exchangeCdkey?sign_type=2&auth_appid=apicdkey&authkey_ver=1"
+  },
+  "Retcode": 0
+}

@@ -1,0 +1,33 @@
+{
+  "RegionInfo": {
+    "ClientDataMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"98bb09e42eb2fd6f644c5c7dbabec79c\", \"hash\": \"71373034aa4fea7a\", \"fileSize\": 5149}",
+    "ResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/4.1_live",
+    "NextResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/4.1_live",
+    "ResourceUrlBak": "4.1_live",
+    "DataUrl": "https://autopatchcn.yuanshen.com/client_design_data/4.1_live",
+    "NextResVersionConfig": {
+      "Md5": "0",
+      "ReleaseTotalSize": "0",
+      "Branch": "4.1_live"
+    },
+    "ResVersionConfig": {
+      "Version": 18501173,
+      "Md5": "{\"remoteName\": \"res_versions_external\", \"md5\": \"0d9c3b5c81977d318b133c9de0f2a01e\", \"hash\": \"b8d9e8c2cf03684a\", \"fileSize\": 543293}\n{\"remoteName\": \"res_versions_medium\", \"md5\": \"b99055929d00c5d2ea6e52f0adcc4d1c\", \"hash\": \"9d558818f1e1c584\", \"fileSize\": 63723}\n{\"remoteName\": \"res_versions_streaming\", \"md5\": \"7e53ab7d62d91c1d129713fdbe425da6\", \"hash\": \"e2d55c410846cbee\", \"fileSize\": 1899}\n{\"remoteName\": \"base_revision\", \"md5\": \"37234d5cba1be78e713bac5207e46bc1\", \"hash\": \"931e9d701f258b55\", \"fileSize\": 19}",
+      "ReleaseTotalSize": "0",
+      "VersionSuffix": "e6db7e65a2",
+      "Branch": "4.1_live"
+    },
+    "GameBiz": "hk4e_cn",
+    "AreaType": "CN",
+    "ClientDataVersion": 18497406,
+    "ClientSilenceDataVersion": 18438893,
+    "ClientVersionSuffix": "784203e5e2",
+    "ClientSilenceVersionSuffix": "3de081c493",
+    "UseGateserverDomainName": false,
+    "GateserverIp": "47.116.110.112",
+    "GateserverPort": 22101,
+    "PrivacyPolicyUrl": "https://user.mihoyo.com/#/about/privacyInGame?app_id=4&lang=zh-cn&biz=hk4e_cn",
+    "CdkeyUrl": "https://public-operation-hk4e.mihoyo.com/common/apicdkey/api/exchangeCdkey?sign_type=2&auth_appid=apicdkey&authkey_ver=1"
+  },
+  "Retcode": 0
+}
