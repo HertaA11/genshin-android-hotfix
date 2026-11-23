@@ -109,3 +109,8 @@
 - `ClientDataMd5` / `ResVersionConfig.Md5`：数据与资源清单校验信息。
 - `ResourceUrl` / `DataUrl`：对应版本分支的官方 CDN 地址。
 - `GateserverIp` / `GateserverPort`：版本对应的网关服务器。
+- ## Contributors
+
+<a href="https://github.com/fdjgscgfj">
+  <img src="https://github.com/fdjgscgfj.png" width="80" alt="fdjgscgfj"/>
+</a>
