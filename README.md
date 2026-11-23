@@ -1,14 +1,4 @@
-## Contributors
 
-Special thanks to [fdjgscgfj](https://github.com/fdjgscgfj) for providing the Hotfix configurations.
-
-特别感谢 [fdjgscgfj](https://github.com/fdjgscgfj) 提供热更新（Hotfix）配置。
-
-<a href="https://github.com/fdjgscgfj">
-  <img src="https://github.com/fdjgscgfj.png" width="80" alt="fdjgscgfj"/>
-</a>
-
----
 
 # 原神国服安卓目前有效的热更新配置
 
