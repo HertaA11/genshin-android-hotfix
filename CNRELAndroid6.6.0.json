@@ -5,7 +5,6 @@
     "HandbookUrl": "https://webstatic.mihoyo.com/ys/event/blue-post/index.html?gamewebview=1&page_sn=382675dd182b418c&mode=fullscreen&game_biz=hk4e_cn&sign_type=2&auth_appid=bluepost&authkey_ver=1&utm_source=game&utm_medium=ys&utm_campaign=hot",
     "ClientSilenceDataMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"46dc9ec5c7744aaccf7197caca98d074\", \"hash\": \"147ffc7adc008ed5\", \"fileSize\": 522}",
     "AreaType": "CN",
-    "GateserverIp": "47.100.117.206",
     "NextResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/6.6_live",
     "NextResVersionConfig": {
       "Branch": "6.6_live",
@@ -31,10 +30,6 @@
     "ClientSilenceVersionSuffix": "eb30c01040",
     "DataUrl": "https://autopatchcn.yuanshen.com/client_design_data/6.6_live",
     "ClientVersionSuffix": "fecf4c762a",
-    "PrivacyPolicyUrl": "https://user.mihoyo.com/#/about/privacyInGame?app_id=4&lang=zh-cn&biz=hk4e_cn",
-    "CdkeyUrl": "https://public-operation-hk4e.mihoyo.com/common/apicdkey/api/exchangeCdkey?sign_type=2&auth_appid=apicdkey&authkey_ver=1",
-    "UseGateserverDomainName": false,
-    "GateserverPort": 22102,
     "ClientDataVersion": 45557904,
     "ClientSilenceDataVersion": 44916582
   },

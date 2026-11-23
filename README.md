@@ -96,11 +96,6 @@
     "ClientSilenceDataVersion": "<静默数据版本>",
     "ClientVersionSuffix": "...",
     "ClientSilenceVersionSuffix": "...",
-    "UseGateserverDomainName": false,
-    "GateserverIp": "...",
-    "GateserverPort": 22101,
-    "PrivacyPolicyUrl": "...",
-    "CdkeyUrl": "..."
   },
   "Retcode": 0
 }
