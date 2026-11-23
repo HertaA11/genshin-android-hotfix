@@ -7,65 +7,60 @@
 
 ## 版本清单
 
-| 版本 | 文件 | 网关服务器 |
-| --- | --- | --- |
-| 1.0.0 | `CNRELAndroid1.0.0.json` | 47.116.110.112:22101 |
-| 1.1.0 | `CNRELAndroid1.1.0.json` | 47.116.110.112:22101 |
-| 1.2.0 | `CNRELAndroid1.2.0.json` | 47.116.110.112:22101 |
-| 1.3.0 | `CNRELAndroid1.3.0.json` | 47.116.110.112:22101 |
-| 1.4.0 | `CNRELAndroid1.4.0.json` | 47.116.110.112:22101 |
-| 1.5.0 | `CNRELAndroid1.5.0.json` | 47.116.110.112:22101 |
-| 1.6.0 | `CNRELAndroid1.6.0.json` | 47.116.110.112:22101 |
-| 2.0.0 | `CNRELAndroid2.0.0.json` | 47.116.110.112:22101 |
-| 2.1.0 | `CNRELAndroid2.1.0.json` | 47.116.110.112:22101 |
-| 2.2.0 | `CNRELAndroid2.2.0.json` | 47.116.110.112:22101 |
-| 2.3.0 | `CNRELAndroid2.3.0.json` | 47.116.110.112:22101 |
-| 2.4.0 | `CNRELAndroid2.4.0.json` | 47.116.110.112:22101 |
-| 2.5.0 | `CNRELAndroid2.5.0.json` | 47.116.110.112:22101 |
-| 2.6.0 | `CNRELAndroid2.6.0.json` | 47.116.110.112:22101 |
-| 2.7.0 | `CNRELAndroid2.7.0.json` | 47.116.110.112:22101 |
-| 2.8.0 | `CNRELAndroid2.8.0.json` | 47.116.110.112:22101 |
-| 3.0.0 | `CNRELAndroid3.0.0.json` | 47.116.110.112:22101 |
-| 3.1.0 | `CNRELAndroid3.1.0.json` | 47.116.110.112:22101 |
-| 3.2.0 | `CNRELAndroid3.2.0.json` | 47.116.110.112:22101 |
-| 3.3.0 | `CNRELAndroid3.3.0.json` | 47.116.110.112:22101 |
-| 3.5.0 | `CNRELAndroid3.5.0.json` | 47.116.110.112:22101 |
-| 3.6.0 | `CNRELAndroid3.6.0.json` | 47.116.110.112:22101 |
-| 3.7.0 | `CNRELAndroid3.7.0.json` | 47.116.110.112:22101 |
-| 3.8.0 | `CNRELAndroid3.8.0.json` | 47.116.110.112:22101 |
-| 4.0.0 | `CNRELAndroid4.0.0.json` | 47.116.110.112:22101 |
-| 4.1.0 | `CNRELAndroid4.1.0.json` | 47.116.110.112:22101 |
-| 4.2.0 | `CNRELAndroid4.2.0.json` | 47.101.203.7:22101 |
-| 4.3.0 | `CNRELAndroid4.3.0.json` | 47.103.29.152:22101 |
-| 4.4.0 | `CNRELAndroid4.4.0.json` | 47.103.23.92:22102 |
-| 4.5.0 | `CNRELAndroid4.5.0.json` | 47.116.110.112:22101 |
-| 4.6.0 | `CNRELAndroid4.6.0.json` | 47.116.110.112:22101 |
-| 4.7.0 | `CNRELAndroid4.7.0.json` | 47.116.110.112:22101 |
-| 4.8.0 | `CNRELAndroid4.8.0.json` | 47.116.110.112:22101 |
-| 5.0.0 | `CNRELAndroid5.0.0.json` | 47.116.110.112:22101 |
-| 5.1.0 | `CNRELAndroid5.1.0.json` | 47.116.110.112:22101 |
-| 5.2.0 | `CNRELAndroid5.2.0.json` | 47.116.110.112:22101 |
-| 5.3.0 | `CNRELAndroid5.3.0.json` | 47.116.110.112:22101 |
-| 5.4.0 | `CNRELAndroid5.4.0.json` | 47.116.110.112:22101 |
-| 5.5.0 | `CNRELAndroid5.5.0.json` | 47.116.110.112:22101 |
-| 5.6.0 | `CNRELAndroid5.6.0.json` | 47.116.110.112:22101 |
-| 5.7.0 | `CNRELAndroid5.7.0.json` | 47.116.110.112:22101 |
-| 5.8.0 | `CNRELAndroid5.8.0.json` | 47.116.110.112:22101 |
-| 6.0.0 | `CNRELAndroid6.0.0.json` | 47.116.110.112:22101 |
-| 6.1.0 | `CNRELAndroid6.1.0.json` | 47.116.110.112:22101 |
-| 6.2.0 | `CNRELAndroid6.2.0.json` | 47.116.110.112:22101 |
-| 6.3.0 | `CNRELAndroid6.3.0.json` | 47.116.110.112:22101 |
-| 6.4.0 | `CNRELAndroid6.4.0.json` | 47.116.110.112:22101 |
-| 6.5.0 | `CNRELAndroid6.5.0.json` | 47.116.110.112:22101 |
-| 6.6.0 | `CNRELAndroid6.6.0.json` | 47.100.117.206:22102 |
-| 6.7.0 | `CNRELAndroid6.7.0.json` | 47.116.110.112:22101 |
-| 7.0.0 | `CNRELAndroid7.0.0.json` | 47.103.30.226:22101 |
-| 7.1.0 | `CNRELAndroid7.1.0.json` | 47.116.110.112:22101 |
-| 7.2.0 | `CNRELAndroid7.2.0.json` | 47.116.110.112:22101 |
-
-3.2.0 的官方 CDN 文件已经下线；该配置改用经 MD5、XXH64 和文件大小校验的 Internet Archive 历史归档。
-
-未列出 3.4.0，因为官方 CDN 清单已不可用，对应配置文件尚未恢复。
+| 版本 | 文件 |
+| --- | --- |
+| 1.0.0 | `CNRELAndroid1.0.0.json` |
+| 1.1.0 | `CNRELAndroid1.1.0.json` |
+| 1.2.0 | `CNRELAndroid1.2.0.json` |
+| 1.3.0 | `CNRELAndroid1.3.0.json` |
+| 1.4.0 | `CNRELAndroid1.4.0.json` |
+| 1.5.0 | `CNRELAndroid1.5.0.json` |
+| 1.6.0 | `CNRELAndroid1.6.0.json` |
+| 2.0.0 | `CNRELAndroid2.0.0.json` |
+| 2.1.0 | `CNRELAndroid2.1.0.json` |
+| 2.2.0 | `CNRELAndroid2.2.0.json` |
+| 2.3.0 | `CNRELAndroid2.3.0.json` |
+| 2.4.0 | `CNRELAndroid2.4.0.json` |
+| 2.5.0 | `CNRELAndroid2.5.0.json` |
+| 2.6.0 | `CNRELAndroid2.6.0.json` |
+| 2.7.0 | `CNRELAndroid2.7.0.json` |
+| 2.8.0 | `CNRELAndroid2.8.0.json` |
+| 3.0.0 | `CNRELAndroid3.0.0.json` |
+| 3.1.0 | `CNRELAndroid3.1.0.json` |
+| 3.3.0 | `CNRELAndroid3.3.0.json` |
+| 3.5.0 | `CNRELAndroid3.5.0.json` |
+| 3.6.0 | `CNRELAndroid3.6.0.json` |
+| 3.7.0 | `CNRELAndroid3.7.0.json` |
+| 3.8.0 | `CNRELAndroid3.8.0.json` |
+| 4.0.0 | `CNRELAndroid4.0.0.json` |
+| 4.1.0 | `CNRELAndroid4.1.0.json` |
+| 4.2.0 | `CNRELAndroid4.2.0.json` |
+| 4.3.0 | `CNRELAndroid4.3.0.json` |
+| 4.4.0 | `CNRELAndroid4.4.0.json` |
+| 4.5.0 | `CNRELAndroid4.5.0.json` |
+| 4.6.0 | `CNRELAndroid4.6.0.json` |
+| 4.7.0 | `CNRELAndroid4.7.0.json` |
+| 4.8.0 | `CNRELAndroid4.8.0.json` |
+| 5.0.0 | `CNRELAndroid5.0.0.json` |
+| 5.1.0 | `CNRELAndroid5.1.0.json` |
+| 5.2.0 | `CNRELAndroid5.2.0.json` |
+| 5.3.0 | `CNRELAndroid5.3.0.json` |
+| 5.4.0 | `CNRELAndroid5.4.0.json` |
+| 5.5.0 | `CNRELAndroid5.5.0.json` |
+| 5.6.0 | `CNRELAndroid5.6.0.json` |
+| 5.7.0 | `CNRELAndroid5.7.0.json` |
+| 5.8.0 | `CNRELAndroid5.8.0.json` |
+| 6.0.0 | `CNRELAndroid6.0.0.json` |
+| 6.1.0 | `CNRELAndroid6.1.0.json` |
+| 6.2.0 | `CNRELAndroid6.2.0.json` |
+| 6.3.0 | `CNRELAndroid6.3.0.json` |
+| 6.4.0 | `CNRELAndroid6.4.0.json` |
+| 6.5.0 | `CNRELAndroid6.5.0.json` |
+| 6.6.0 | `CNRELAndroid6.6.0.json` |
+| 6.7.0 | `CNRELAndroid6.7.0.json` |
+| 7.0.0 | `CNRELAndroid7.0.0.json` |
+| 7.1.0 | `CNRELAndroid7.1.0.json` |
+| 7.2.0 | `CNRELAndroid7.2.0.json` |
 
 ## 文件包含的内容
 
@@ -113,4 +108,3 @@
 - `ResVersionConfig.Version` / `VersionSuffix`：资源 revision 和后缀。
 - `ClientDataMd5` / `ResVersionConfig.Md5`：数据与资源清单校验信息。
 - `ResourceUrl` / `DataUrl`：对应版本分支的官方 CDN 地址。
-- `GateserverIp` / `GateserverPort`：版本对应的网关服务器。
