@@ -1,0 +1,33 @@
+{
+  "RegionInfo": {
+    "ClientDataMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"f7d6146961d133fef445a65d4c68eb31\", \"hash\": \"c519a29731696ef3\", \"fileSize\": 5147}",
+    "ResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/3.7_live",
+    "NextResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/3.7_live",
+    "ResourceUrlBak": "3.7_live",
+    "DataUrl": "https://autopatchcn.yuanshen.com/client_design_data/3.7_live",
+    "NextResVersionConfig": {
+      "Md5": "0",
+      "ReleaseTotalSize": "0",
+      "Branch": "3.7_live"
+    },
+    "ResVersionConfig": {
+      "Version": 15495264,
+      "Md5": "{\"remoteName\": \"res_versions_external\", \"md5\": \"f66805b4a681bf9b062565eb1f349c40\", \"hash\": \"762249b2864ef179\", \"fileSize\": 449674}\n{\"remoteName\": \"res_versions_medium\", \"md5\": \"044c411bba2bef014299e10353acd279\", \"hash\": \"6be2f0fd2f956251\", \"fileSize\": 97667}\n{\"remoteName\": \"res_versions_streaming\", \"md5\": \"db52cc53789289f9e5a3e58f10b2690a\", \"hash\": \"55425d3218debb0a\", \"fileSize\": 1581}\n{\"remoteName\": \"base_revision\", \"md5\": \"a1b8a7b4517dfbedbeda9d9854c079b2\", \"hash\": \"194ed3cab7457cfa\", \"fileSize\": 19}\n{\"remoteName\": \"script_version\", \"md5\": \"6bcc3684f18aa21874fa709f122723cf\", \"hash\": \"8e0b1882ba50a386\", \"fileSize\": 5}",
+      "ReleaseTotalSize": "0",
+      "VersionSuffix": "48d6973796",
+      "Branch": "3.7_live"
+    },
+    "GameBiz": "hk4e_cn",
+    "AreaType": "CN",
+    "ClientDataVersion": 15203785,
+    "ClientSilenceDataVersion": 15338072,
+    "ClientVersionSuffix": "1263c8592c",
+    "ClientSilenceVersionSuffix": "0f8841d56e",
+    "UseGateserverDomainName": false,
+    "GateserverIp": "47.116.110.112",
+    "GateserverPort": 22101,
+    "PrivacyPolicyUrl": "https://user.mihoyo.com/#/about/privacyInGame?app_id=4&lang=zh-cn&biz=hk4e_cn",
+    "CdkeyUrl": "https://public-operation-hk4e.mihoyo.com/common/apicdkey/api/exchangeCdkey?sign_type=2&auth_appid=apicdkey&authkey_ver=1"
+  },
+  "Retcode": 0
+}

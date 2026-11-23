@@ -1,0 +1,33 @@
+{
+  "RegionInfo": {
+    "ClientDataMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"099249d6e0552b55408fb972683747a8\", \"hash\": \"20b6da6907162ed5\", \"fileSize\": 4405}",
+    "ResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/2.5_live",
+    "NextResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/2.5_live",
+    "ResourceUrlBak": "2.5_live",
+    "DataUrl": "https://autopatchcn.yuanshen.com/client_design_data/2.5_live",
+    "NextResVersionConfig": {
+      "Md5": "0",
+      "ReleaseTotalSize": "0",
+      "Branch": "2.5_live"
+    },
+    "ResVersionConfig": {
+      "Version": 6089080,
+      "Md5": "{\"remoteName\": \"res_versions_external\", \"md5\": \"96f6bf607c631fc57dc6fb8781c9ff06\", \"hash\": \"6d7de5aad28c23ee\", \"fileSize\": 250737}\n{\"remoteName\": \"res_versions_medium\", \"md5\": \"24c8e522a78a47762219cd1ae09af110\", \"hash\": \"f72095be8b947241\", \"fileSize\": 74670}\n{\"remoteName\": \"res_versions_streaming\", \"md5\": \"e46bc554b498bba11278fb46ac71198a\", \"hash\": \"84bfa7d5d3169f9d\", \"fileSize\": 1808}\n{\"remoteName\": \"release_res_versions_external\", \"md5\": \"1e9305856d154549e06d620821de596f\", \"hash\": \"b834080d4eb1d8e5\", \"fileSize\": 250737}\n{\"remoteName\": \"release_res_versions_medium\", \"md5\": \"0362350f8159be34d5c0c3714800f341\", \"hash\": \"8cabca20b1d0cb06\", \"fileSize\": 74670}\n{\"remoteName\": \"release_res_versions_streaming\", \"md5\": \"1c5612aad0793ced41f102a05cfa4430\", \"hash\": \"a6ba6b6a4e0cc3bb\", \"fileSize\": 1808}\n{\"remoteName\": \"base_revision\", \"md5\": \"38ec916ac1908861062df6a30c6d6416\", \"hash\": \"2a31b4fd7034b9de\", \"fileSize\": 18}\n{\"remoteName\": \"script_version\", \"md5\": \"daf82050402e5ee29f1e83d93da0cc05\", \"hash\": \"7c8cfb5bfaf94b66\", \"fileSize\": 5}",
+      "ReleaseTotalSize": "0",
+      "VersionSuffix": "7d735e9e35",
+      "Branch": "2.5_live"
+    },
+    "GameBiz": "hk4e_cn",
+    "AreaType": "CN",
+    "ClientDataVersion": 5999657,
+    "ClientSilenceDataVersion": 6140667,
+    "ClientVersionSuffix": "297cf077de",
+    "ClientSilenceVersionSuffix": "b07232a8dc",
+    "UseGateserverDomainName": false,
+    "GateserverIp": "47.116.110.112",
+    "GateserverPort": 22101,
+    "PrivacyPolicyUrl": "https://user.mihoyo.com/#/about/privacyInGame?app_id=4&lang=zh-cn&biz=hk4e_cn",
+    "CdkeyUrl": "https://public-operation-hk4e.mihoyo.com/common/apicdkey/api/exchangeCdkey?sign_type=2&auth_appid=apicdkey&authkey_ver=1"
+  },
+  "Retcode": 0
+}
