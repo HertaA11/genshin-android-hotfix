@@ -1,12 +1,21 @@
 # Genshin Impact CN Android Hotfix
 
 Region configs (`query_cur_region` responses, `RegionInfo` block) for the CN Android client
-(`hk4e_cn`), one file per version branch. Currently covers 5.0.0 through 7.2.0 — 19 versions.
+(`hk4e_cn`), one file per version branch. Currently covers 4.0.0 through 7.2.0 — 28 versions.
 
 ## Versions
 
 | Version | File | Gate server |
 | --- | --- | --- |
+| 4.0.0 | `CNRELAndroid4.0.0.json` | 47.116.110.112:22101 |
+| 4.1.0 | `CNRELAndroid4.1.0.json` | 47.116.110.112:22101 |
+| 4.2.0 | `CNRELAndroid4.2.0.json` | 47.101.203.7:22101 |
+| 4.3.0 | `CNRELAndroid4.3.0.json` | 47.103.29.152:22101 |
+| 4.4.0 | `CNRELAndroid4.4.0.json` | 47.103.23.92:22102 |
+| 4.5.0 | `CNRELAndroid4.5.0.json` | 47.116.110.112:22101 |
+| 4.6.0 | `CNRELAndroid4.6.0.json` | 47.116.110.112:22101 |
+| 4.7.0 | `CNRELAndroid4.7.0.json` | 47.116.110.112:22101 |
+| 4.8.0 | `CNRELAndroid4.8.0.json` | 47.116.110.112:22101 |
 | 5.0.0 | `CNRELAndroid5.0.0.json` | 47.116.110.112:22101 |
 | 5.1.0 | `CNRELAndroid5.1.0.json` | 47.116.110.112:22101 |
 | 5.3.0 | `CNRELAndroid5.3.0.json` | 47.116.110.112:22101 |
@@ -30,11 +39,12 @@ Region configs (`query_cur_region` responses, `RegionInfo` block) for the CN And
 5.2.0 is temporarily unavailable — the capture for that branch is missing, so it is not in the
 repo yet. It will be added once it can be captured.
 
-6.6.0 and 7.0.0 were served from a different gate host than the other versions; the address in
-each file is the one that version actually returned.
+4.2.0, 4.3.0, 4.4.0, 6.6.0 and 7.0.0 were served from a different gate host than the rest; the
+address in each file is the one that version actually returned.
 
 ## Updates
 
+- 2026-11-23 — added the 4.x series: 4.0.0 through 4.8.0.
 - 2026-11-23 — added the 5.x series: 5.0.0, 5.1.0, 5.3.0, 5.4.0, 5.5.0, 5.6.0, 5.7.0, 5.8.0
   (5.2.0 still missing, see above).
 
