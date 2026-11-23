@@ -25,12 +25,7 @@
     "ClientDataVersion": 47579390,
     "ClientSilenceDataVersion": 47579390,
     "ClientVersionSuffix": "b92051e672",
-    "ClientSilenceVersionSuffix": "b92051e672",
-    "UseGateserverDomainName": false,
-    "GateserverIp": "47.103.30.226",
-    "GateserverPort": 22101,
-    "PrivacyPolicyUrl": "https://user.mihoyo.com/#/about/privacyInGame?app_id=4&lang=zh-cn&biz=hk4e_cn",
-    "CdkeyUrl": "https://public-operation-hk4e.mihoyo.com/common/apicdkey/api/exchangeCdkey?sign_type=2&auth_appid=apicdkey&authkey_ver=1"
+    "ClientSilenceVersionSuffix": "b92051e672"
   },
   "Retcode": 0
 }
