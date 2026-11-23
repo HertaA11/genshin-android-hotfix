@@ -62,6 +62,8 @@
 | 7.1.0 | `CNRELAndroid7.1.0.json` |
 | 7.2.0 | `CNRELAndroid7.2.0.json` |
 
+未列出 3.2.0 和 3.4.0，因为官方 CDN 清单已不可用，对应配置文件已删除。
+
 ## 文件包含的内容
 
 每个文件都是完整的 `query_cur_region` 响应：
