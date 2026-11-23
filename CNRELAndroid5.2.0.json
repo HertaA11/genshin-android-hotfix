@@ -1,0 +1,33 @@
+{
+  "RegionInfo": {
+    "ClientDataMd5": "{\"remoteName\": \"data_versions\", \"md5\": \"0f8872a0b754378abff5bf73c6448614\", \"hash\": \"d14fc380f39205a4\", \"fileSize\": 68627}\n{\"remoteName\": \"data_versions_medium\", \"md5\": \"409a6117cfe21a502be69cebe2c503fb\", \"hash\": \"c29ffa27426fe024\", \"fileSize\": 6665}",
+    "ResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/5.2_live",
+    "NextResourceUrl": "https://autopatchcn.yuanshen.com/client_game_res/5.2_live",
+    "ResourceUrlBak": "5.2_live",
+    "DataUrl": "https://autopatchcn.yuanshen.com/client_design_data/5.2_live",
+    "NextResVersionConfig": {
+      "Md5": "0",
+      "ReleaseTotalSize": "0",
+      "Branch": "5.2_live"
+    },
+    "ResVersionConfig": {
+      "Version": 29063028,
+      "Md5": "{\"remoteName\": \"res_versions_external\", \"md5\": \"5dbb3961416657971e573ccc2722360a\", \"hash\": \"3ee75919644e412a\", \"fileSize\": 162939}\n{\"remoteName\": \"res_versions_medium\", \"md5\": \"1350dd9e3e429f53dd4ef72f67786e75\", \"hash\": \"27b31277891ac504\", \"fileSize\": 9268}\n{\"remoteName\": \"res_versions_streaming\", \"md5\": \"203f15c3c9318af1bcc736fe0af5c6c7\", \"hash\": \"04983e3747bbd16e\", \"fileSize\": 2110}\n{\"remoteName\": \"base_revision\", \"md5\": \"dbcf5975cfb913ffff58fe7f0f74bec6\", \"hash\": \"45e2670b03f21afc\", \"fileSize\": 19}\n{\"remoteName\": \"patch_node_versions\", \"md5\": \"7b83efb1d5ed4f003e637aa257832707\", \"hash\": \"1ddb138a06178a38\", \"fileSize\": 3071}",
+      "ReleaseTotalSize": "0",
+      "VersionSuffix": "d744230f4d",
+      "Branch": "5.2_live"
+    },
+    "GameBiz": "hk4e_cn",
+    "AreaType": "CN",
+    "ClientDataVersion": 28887986,
+    "ClientSilenceDataVersion": 28772242,
+    "ClientVersionSuffix": "e9e9d833e1",
+    "ClientSilenceVersionSuffix": "d77af77c16",
+    "UseGateserverDomainName": false,
+    "GateserverIp": "47.116.110.112",
+    "GateserverPort": 22101,
+    "PrivacyPolicyUrl": "https://user.mihoyo.com/#/about/privacyInGame?app_id=4&lang=zh-cn&biz=hk4e_cn",
+    "CdkeyUrl": "https://public-operation-hk4e.mihoyo.com/common/apicdkey/api/exchangeCdkey?sign_type=2&auth_appid=apicdkey&authkey_ver=1"
+  },
+  "Retcode": 0
+}
