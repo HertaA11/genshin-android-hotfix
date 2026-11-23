@@ -64,6 +64,8 @@
 
 未列出 3.2.0 和 3.4.0，因为官方 CDN 清单已不可用，对应配置文件已删除
 
+Versions 3.2.0 and 3.4.0 are not listed because the official CDN manifests are no longer available and the corresponding configuration files have been removed
+
 ## 文件包含的内容
 
 每个文件都是完整的 `query_cur_region` 响应：
