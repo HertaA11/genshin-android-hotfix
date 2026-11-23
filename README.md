@@ -2,6 +2,8 @@
 
 # 原神国服安卓目前有效的热更新配置
 
+中文 | [English](README_EN.md)
+
 本仓库保存原神国服安卓客户端的 `query_cur_region` 响应中的 `RegionInfo` 配置，
 每个可用版本分支对应一个 JSON 文件。
 
@@ -63,8 +65,6 @@
 | 7.2.0 | `CNRELAndroid7.2.0.json` |
 
 未列出 3.2.0 和 3.4.0，因为官方 CDN 清单已不可用，对应配置文件已删除
-
-Versions 3.2.0 and 3.4.0 are not listed because the official CDN manifests are no longer available and the corresponding configuration files have been removed
 
 ## 文件包含的内容
 
