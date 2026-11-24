@@ -66,17 +66,17 @@ Each available version branch has a corresponding JSON file.
 
 | Version | Download |
 | --- | --- |
-| 1.0.0 | [yuanshen_1.0.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20200928_75e9e7b1e7e3cd66/yuanshen_1.0.0_mihoyo.apk) |
-| 1.1.0 | [yuanshen_1.1.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20201111_c957958f02d43b5b/yuanshen_1.1.0_mihoyo.apk) |
-| 1.2.0 | [yuanshen_1.2.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20201223_3a5cd05350de467d/yuanshen_1.2.0_mihoyo.apk) |
-| 1.3.0 | [yuanshen_1.3.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210203_e45f41e272abcec8/yuanshen_1.3.0_mihoyo.apk) |
-| 1.4.0 | [yuanshen_1.4.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210317_89cc7ee76bc22c55/yuanshen_1.4.0_mihoyo.apk) |
-| 1.5.0 | [yuanshen_1.5.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210428_e9fedbb766e62404/yuanshen_1.5.0_mihoyo.apk) |
-| 1.6.0 | [yuanshen_1.6.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210609_2758cc87f80c2355/yuanshen_1.6.0_mihoyo.apk) |
+| 1.0.0 | [yuanshen_1.0.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20200928_75e9e7b1e7e3cd66/yuanshen_1.0.0_mihoyo.apk) |
+| 1.1.0 | [yuanshen_1.1.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20201111_c957958f02d43b5b/yuanshen_1.1.0_mihoyo.apk) |
+| 1.2.0 | [yuanshen_1.2.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20201223_3a5cd05350de467d/yuanshen_1.2.0_mihoyo.apk) |
+| 1.3.0 | [yuanshen_1.3.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210203_e45f41e272abcec8/yuanshen_1.3.0_mihoyo.apk) |
+| 1.4.0 | [yuanshen_1.4.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210317_89cc7ee76bc22c55/yuanshen_1.4.0_mihoyo.apk) |
+| 1.5.0 | [yuanshen_1.5.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210428_e9fedbb766e62404/yuanshen_1.5.0_mihoyo.apk) |
+| 1.6.0 | [yuanshen_1.6.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210609_2758cc87f80c2355/yuanshen_1.6.0_mihoyo.apk) |
 | 2.0.0 | [yuanshen_2.0.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210721_d7f1e0ad308120d3/ydadmgsky/yuanshen_2.0.0.apk) |
-| 2.1.0 | [yuanshen_2.1.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210901_new_21db95cb081622f9/yuanshen_2.1.0_mihoyo.apk) |
-| 2.2.0 | [yuanshen_2.2.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/Android/20211013_6371803a7950091f/yuanshen_2.2.0_mihoyo.apk) |
-| 2.3.0 | [yuanshen_2.3.0_mihoyo.apk](https://autopatchcn.yuanshen.com/client_app/download/Android/20211115112423_mcqMxJ8RGidTl6Ho/mihoyo/yuanshen_2.3.0_mihoyo.apk) |
+| 2.1.0 | [yuanshen_2.1.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20210901_new_21db95cb081622f9/yuanshen_2.1.0_mihoyo.apk) |
+| 2.2.0 | [yuanshen_2.2.0.apk](https://autopatchcn.yuanshen.com/client_app/Android/20211013_6371803a7950091f/yuanshen_2.2.0_mihoyo.apk) |
+| 2.3.0 | [yuanshen_2.3.0.apk](https://autopatchcn.yuanshen.com/client_app/download/Android/20211115112423_mcqMxJ8RGidTl6Ho/mihoyo/yuanshen_2.3.0_mihoyo.apk) |
 | 2.4.0 | [yuanshen_2.4.0.apk](https://autopatchcn.yuanshen.com/client_app/download/Android/20211221204338_arWQkucokKWFbA6b/mihoyo/yuanshen_2.4.0.apk) |
 | 2.5.0 | [yuanshen_2.5.0.apk](https://autopatchcn.yuanshen.com/client_app/download/Android/20220203212134_R2K36VO9daAhNt88/mihoyo/yuanshen_2.5.0.apk) |
 | 2.6.0 | [yuanshen_2.6.0.apk](https://autopatchcn.yuanshen.com/client_app/download/Android/20220321183336_jY1eJDXeR1hLiFDk/mihoyo/yuanshen_2.6.0.apk) |
